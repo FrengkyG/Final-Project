@@ -5,7 +5,7 @@
 
 #logo{
     height: 47.2px;
-    width: 57.8PX;
+    width: 57.8px;
 }
 
 .bulet{
@@ -20,7 +20,7 @@
 .info{
     display: inline;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 1rem;
 
 }
 
@@ -35,7 +35,7 @@ h3{
 }
 .home2{
     /* background: whitesmoke; */
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 .imgslider{
@@ -50,7 +50,7 @@ h3{
 }
 
 .navfont{
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: bold;
 }
 
@@ -88,7 +88,7 @@ h3{
     background-size: cover;
     color: #02C39A;
     font-family: 'Stylish', sans-serif;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 .imgWorks{
     margin: 5px;
@@ -108,7 +108,7 @@ h3{
 
 
 #headerWorks{
-    font-size: 72px;
+    font-size: 4.5rem;
 }
 
 /* .foot{
@@ -126,7 +126,7 @@ h3{
 }
 
 .fontContact{
-    font-size: 19px;
+    font-size: 1.188rem;
 }
 
 .content{
@@ -157,7 +157,7 @@ h3{
     background: #1d1d1d;
     /* padding-top: 0px; */
     font-family: 'Roboto', sans-serif;
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 .display-4{
