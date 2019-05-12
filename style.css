@@ -1,0 +1,169 @@
+.container-fluid{
+    /* background: blue; */
+    text-align: center;
+}
+
+#logo{
+    height: 47.2px;
+    width: 57.8PX;
+}
+
+.bulet{
+    border-radius: 25px;
+    border: 3px solid lightskyblue;
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    
+}
+
+.info{
+    display: inline;
+    font-weight: bold;
+    font-size: 16px;
+
+}
+
+h2{
+    text-align: center;
+    margin: 40px;
+}
+
+h3{
+    text-align: center;
+    margin: 20px;
+}
+.home2{
+    /* background: whitesmoke; */
+    font-size: 16px;
+}
+
+.imgslider{
+    width: 75%;
+    height: 75%;
+} 
+
+#bodyHome{
+    font-family: 'PT Sans', sans-serif;
+    /* background: #003459;
+    color: #FFFFFF; */
+}
+
+.navfont{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#row3home{
+    color: whitesmoke;
+    /* background: #00897b; */
+    background: #81C784;
+}
+
+.marginimg{
+    margin: 15px 0px;
+}
+
+#headwork{
+    text-align: center;
+}
+
+#smmf{
+    margin: 10px 0 10px 0;
+    width: 150px;
+    height: 55px;
+}
+
+#fif{
+    width: 130px;
+    height: 45px;
+}
+
+#danamas{
+    margin: 20px 0;
+}
+
+#worksBody{
+    background-image: url(images/Portfolio/bg.jpg);
+    background-size: cover;
+    color: #02C39A;
+    font-family: 'Stylish', sans-serif;
+    font-size: 24px;
+}
+.imgWorks{
+    margin: 5px;
+    width: 550px;
+    height: 250px;
+    border: 2px solid lightgray;
+    border-radius: 25px;
+}
+
+.rounded{
+    /* margin: 5px;
+    width: 550px;
+    height: 250px; */
+    border: 2px solid lightgray;
+    border-radius: 25px;
+}
+
+
+#headerWorks{
+    font-size: 72px;
+}
+
+/* .foot{
+    color: orangered;
+    background: #003366;
+    /* padding-top: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+} */
+
+.footerrow{
+    background: #1d1d1d;
+    padding-top: 0px;
+    margin-top: 20px;
+}
+
+.fontContact{
+    font-size: 19px;
+}
+
+.content{
+    background: url("images/contact/4881.jpg");
+    background-size: cover;
+}
+
+.modal-content{
+    color: black;
+}
+
+.modal-body{
+    text-align: justify;
+}
+
+.toInline{
+    display: inline;
+}
+
+.footerhome{
+    background: #1d1d1d;
+    padding-top: 0px;
+    margin-top: 20px;
+}
+
+.foothome{
+    color: orangered;
+    background: #1d1d1d;
+    /* padding-top: 0px; */
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+.display-4{
+    color: #424242;
+}
+
+.bgrow1{
+    padding: 0px;
+}
